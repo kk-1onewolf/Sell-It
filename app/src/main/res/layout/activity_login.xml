@@ -81,10 +81,10 @@
             android:layout_height="wrap_content"
             android:imeActionLabel="Password"
             android:layout_marginTop="15dp"
-            android:hint="Pasword"
+            android:hint="Password"
             android:id="@+id/pass_input_log"
             android:soundEffectsEnabled="true"
-            android:inputType="textVisiblePassword"
+            android:inputType="textPassword"
             />
 
         <Button
